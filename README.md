@@ -40,4 +40,3 @@ SparkFlow is a fictional productivity platform designed to help teams manage pro
 
 Animations were added to improve user experience and highlight important sections of the landing page without overwhelming the user. I used hero animations to create an engaging first impression, while hover effects on buttons and cards provide clear feedback during interaction. The scroll reveal animation was added only to the features section because revealing content gradually helps maintain user attention. I avoided excessive animations throughout the page to keep the design professional, smooth, and easy to navigate.
 
-## 📂 Project Structure
